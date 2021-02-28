@@ -43,9 +43,13 @@ Bạn đã hoàn thành quá trình gỡ bỏ **MyExcel**.
 
 Chúng tôi hết sức vui mừng và trân trọng phản hồi của bạn. 
 
+# Đội ngũ phát triển
+
+Xin trân trọng cảm ơn sự đóng góp của cộng đồng các chuyên gia IT, các chuyên gia và nhân viên tài chính, hành chính, quản lý... đã hỗ trợ chúng tôi thực hiện phần mềm này, cùng với
+* [Techlink Ltd.,](http://techlinkvn.com/)
+* [Sinno Club](https://users.soict.hust.edu.vn/sinno)
+
 # Bản quyền
 
-Sản phẩm được phát triển bởi nhóm dự án trong SINNO Club
-* [SINNO Club](https://users.soict.hust.edu.vn/sinno)
-* [SOICT](https://users.soict.hust.edu.vn/sinno)
+Sản phẩm được phát triển và thuộc về TECHLINK Ltd.,
 * [Techlink Ltd.,](http://techlinkvn.com/)
